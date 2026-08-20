@@ -1,0 +1,6 @@
+{
+  "name": "SentryKids",
+  "description": "Smart AI Parental Control app for monitoring devices, locations, alerts, screen time, and family safety.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
